@@ -2,7 +2,7 @@ streamlit
 preprocessor
 matplotlib
 seaborn
-urlextract
+urlextract, URLExtract
 wordcloud
 pandas
 collections,Counter
